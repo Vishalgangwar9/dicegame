@@ -9,8 +9,8 @@ The main
  avoid any misleads. Once this is achieved, a complete section of games can be further built upon this
  random module.
  Tech Stack used while building the project :- HTML, CSS ,JAVA SCRIPT
-Project Demo Photos, Videos
+Project Demo Photos:-https://in.docworkspace.com/d/sIHTD7qLNAeOCu6cG
 Your Deployed Smart Contract's Link :- NA
-If your project is deployed, then include the Live Project Link :-https://github.com/Vishalgangwar9/dicegame.git
-Your PPT link :-
+If your project is deployed, then include the Live Project Link :-https://github.com/Vishalgangwar9/dicegame.git         
+Your PPT link :-https://in.docworkspace.com/d/sIDXD7qLNAfv7uqcG
 Your Team Members' Info.                                                                                                              Members: 1 :- Vishal Gangwar email id :- vg33225@gmail.com college name:-Shri Ram Murti Smarak College of Engineering & Technology  Members: 2 :- Saniya sarfaraz Email id :-saniyasarfaraz2667@gmail.com college name:-Shri Ram Murti Smarak College of Engineering & Technology
